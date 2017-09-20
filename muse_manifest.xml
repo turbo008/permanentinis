@@ -1,0 +1,161 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://permanentinis.com" resolutions="1x,2x" timestamp="1505915037547">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="3828536665" ref="index:kaunas:vilnius"/>
+    <file name="nomq_preview_master_a-master.css" crc="152028939" ref="index:kaunas:vilnius"/>
+    <file name="master_b-master.css" crc="17729855" ref="kontaktai"/>
+    <file name="nomq_preview_master_b-master.css" crc="3833474816" ref="kontaktai"/>
+    <file name="index.css" crc="4264583268" ref="index"/>
+    <file name="nomq_index.css" crc="29334970" ref="index"/>
+    <file name="kontaktai.css" crc="58818220" ref="kontaktai"/>
+    <file name="nomq_kontaktai.css" crc="342951296" ref="kontaktai"/>
+    <file name="kaunas.css" crc="4178499525" ref="kaunas"/>
+    <file name="nomq_kaunas.css" crc="4030671278" ref="kaunas"/>
+    <file name="vilnius.css" crc="3775937940" ref="vilnius"/>
+    <file name="nomq_vilnius.css" crc="3767117074" ref="vilnius"/>
+  </folder>
+  <folder name="assets">
+    <file name="beforeafter1.jpg" crc="4131626265" seo="true" mt="1500890137000"/>
+    <file name="beforeafter2.jpg" crc="4067758265" seo="true" mt="1500890229000"/>
+    <file name="beforeafter3.jpg" crc="89742934" seo="true" mt="1500890217000"/>
+    <file name="beforeafter4.jpg" crc="3829458494" seo="true" mt="1500890207000"/>
+    <file name="beforeafter5.jpg" crc="3764990691" seo="true" mt="1500890195000"/>
+    <file name="beforeafter6.jpg" crc="476207911" seo="true" mt="1500890156000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="museutils.js" crc="4148063285" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="whatinput.js" crc="86476730" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="museconfig.js" crc="172512987" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:vilnius:kaunas"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="webpro.js" crc="3986320349" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:vilnius:kaunas"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="require.js" crc="4159430777" ref="index:kontaktai:vilnius:kaunas"/>
+  </folder>
+  <folder name="images">
+    <file name="pradžia-favicon.ico" crc="4191514781" ref="index"/>
+    <file name="logo2.png" crc="265067141" seo="true" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:kontaktai"/>
+    <file name="banner1.jpg" crc="3902752923" ref="index"/>
+    <file name="arrow.png" crc="3935350972" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="banner12.jpg" crc="3935056444" ref="index"/>
+    <file name="banner1_2x.jpg" crc="3902752923" ref="index"/>
+    <file name="menu-alt-51249x49.png" crc="4011009772" seo="true" ref="index"/>
+    <file name="menu-alt-512_2x.png" crc="477273864" seo="true" ref="index:kontaktai:vilnius:kaunas"/>
+    <file name="arrow2.png" crc="378167266" ref="index"/>
+    <file name="arrow_2x.png" crc="3935350972" ref="index"/>
+    <file name="kontaktai-favicon.ico" crc="4191514781" ref="kontaktai"/>
+    <file name="vilnius-favicon.ico" crc="4191514781" ref="vilnius"/>
+    <file name="fashion1.jpg" crc="4248536380" ref="vilnius:kaunas"/>
+    <file name="step1.jpg" crc="509737039" ref="vilnius:kaunas"/>
+    <file name="step2.jpg" crc="233640572" ref="vilnius:kaunas"/>
+    <file name="steparrow1.png" crc="4152158586" seo="true" ref="vilnius:kaunas"/>
+    <file name="steoarrow346x160.png" crc="4234810282" seo="true" ref="vilnius"/>
+    <file name="step3.jpg" crc="3859997685" ref="vilnius:kaunas"/>
+    <file name="step4.jpg" crc="4146872842" ref="vilnius:kaunas"/>
+    <file name="step2arrow.png" crc="86605698" seo="true" ref="vilnius:kaunas"/>
+    <file name="arrowlast.png" crc="3940024830" seo="true" ref="vilnius:kaunas"/>
+    <file name="step5.jpg" crc="524419292" ref="vilnius:kaunas"/>
+    <file name="girlnearthewall1.jpg" crc="4062400219" ref="vilnius:kaunas"/>
+    <file name="step12.jpg" crc="4206629686" ref="vilnius:kaunas"/>
+    <file name="step1_2x.jpg" crc="509737039" ref="vilnius:kaunas"/>
+    <file name="step22.jpg" crc="4035637695" ref="vilnius:kaunas"/>
+    <file name="step2_2x.jpg" crc="233640572" ref="vilnius:kaunas"/>
+    <file name="steparrow1132x116.png" crc="4152158586" seo="true" ref="vilnius"/>
+    <file name="steoarrow341x144.png" crc="4234810282" seo="true" ref="vilnius"/>
+    <file name="step42.jpg" crc="3969941130" ref="vilnius:kaunas"/>
+    <file name="step4_2x.jpg" crc="4146872842" ref="vilnius:kaunas"/>
+    <file name="step2arrow54x138.png" crc="86605698" seo="true" ref="vilnius"/>
+    <file name="step32.jpg" crc="281565729" ref="vilnius:kaunas"/>
+    <file name="step3_2x.jpg" crc="3859997685" ref="vilnius:kaunas"/>
+    <file name="step52.jpg" crc="4202912868" ref="vilnius:kaunas"/>
+    <file name="step5_2x.jpg" crc="524419292" ref="vilnius:kaunas"/>
+    <file name="fashion12.jpg" crc="390332830" ref="vilnius:kaunas"/>
+    <file name="fashion1_2x.jpg" crc="4248536380" ref="vilnius:kaunas"/>
+    <file name="girlnearthewall12.jpg" crc="3839039928" ref="vilnius:kaunas"/>
+    <file name="girlnearthewall1_2x.jpg" crc="4062400219" ref="vilnius:kaunas"/>
+    <file name="fashion1-u220243-fr.jpg" crc="320926261" ref="vilnius:kaunas"/>
+    <file name="fashion1-u220243-fr_2x.jpg" crc="97990889" ref="vilnius:kaunas"/>
+    <file name="step1-u220268-fr.jpg" crc="4170304495" ref="vilnius:kaunas"/>
+    <file name="step1-u220268-fr_2x.jpg" crc="4216849733" ref="vilnius:kaunas"/>
+    <file name="step2-u220251-fr.jpg" crc="3759910055" ref="vilnius:kaunas"/>
+    <file name="step2-u220251-fr_2x.jpg" crc="3864913909" ref="vilnius:kaunas"/>
+    <file name="step4-u220248-fr.jpg" crc="4163318557" ref="vilnius:kaunas"/>
+    <file name="step4-u220248-fr_2x.jpg" crc="471211277" ref="vilnius:kaunas"/>
+    <file name="step3-u220252-fr.jpg" crc="3992811874" ref="vilnius:kaunas"/>
+    <file name="step3-u220252-fr_2x.jpg" crc="237425834" ref="vilnius:kaunas"/>
+    <file name="step5-u220266-fr.jpg" crc="4002648338" ref="vilnius:kaunas"/>
+    <file name="step5-u220266-fr_2x.jpg" crc="3799134383" ref="vilnius:kaunas"/>
+    <file name="girlnearthewall1-u220537-fr.jpg" crc="69171855" ref="vilnius:kaunas"/>
+    <file name="girlnearthewall1-u220537-fr_2x.jpg" crc="4208573877" ref="vilnius:kaunas"/>
+    <file name="fashion1-u220243-fr2.jpg" crc="4230917654" ref="vilnius:kaunas"/>
+    <file name="fashion1-u220243-fr_2x2.jpg" crc="491546208" ref="vilnius:kaunas"/>
+    <file name="girlnearthewall1-u220537-fr2.jpg" crc="425630910" ref="vilnius:kaunas"/>
+    <file name="girlnearthewall1-u220537-fr_2x2.jpg" crc="465819326" ref="vilnius:kaunas"/>
+    <file name="beforeafter2.jpg" crc="293759282" ref="vilnius:kaunas"/>
+    <file name="beforeafter2_2x.jpg" crc="4142930353" ref="vilnius:kaunas"/>
+    <file name="beforeafter1-u220271-fr.jpg" crc="4069190043" ref="vilnius:kaunas"/>
+    <file name="beforeafter1-u220271-fr_2x.jpg" crc="224114048" ref="vilnius:kaunas"/>
+    <file name="beforeafter4.jpg" crc="536008158" ref="vilnius:kaunas"/>
+    <file name="beforeafter4_2x.jpg" crc="344932035" ref="vilnius:kaunas"/>
+    <file name="beforeafter3-u220278-fr.jpg" crc="4198466746" ref="vilnius:kaunas"/>
+    <file name="beforeafter3-u220278-fr_2x.jpg" crc="3952828038" ref="vilnius:kaunas"/>
+    <file name="beforeafter6.jpg" crc="4013583247" ref="vilnius:kaunas"/>
+    <file name="beforeafter6_2x.jpg" crc="4182719524" ref="vilnius:kaunas"/>
+    <file name="beforeafter5-u220272-fr.jpg" crc="85330032" ref="vilnius:kaunas"/>
+    <file name="beforeafter5-u220272-fr_2x.jpg" crc="4088216176" ref="vilnius:kaunas"/>
+    <file name="fashion1-u220243-fr3.jpg" crc="235250799" ref="vilnius:kaunas"/>
+    <file name="fashion1-u220243-fr_2x3.jpg" crc="9412720" ref="vilnius:kaunas"/>
+    <file name="step1-u220268-fr2.jpg" crc="43489020" ref="vilnius:kaunas"/>
+    <file name="step1-u220268-fr_2x2.jpg" crc="252503396" ref="vilnius:kaunas"/>
+    <file name="step2-u220251-fr2.jpg" crc="3953500051" ref="vilnius:kaunas"/>
+    <file name="step2-u220251-fr_2x2.jpg" crc="57298559" ref="vilnius:kaunas"/>
+    <file name="step3-u220252-fr2.jpg" crc="3938652043" ref="vilnius:kaunas"/>
+    <file name="step3-u220252-fr_2x2.jpg" crc="4048174636" ref="vilnius:kaunas"/>
+    <file name="step4-u220248-fr2.jpg" crc="3934767685" ref="vilnius:kaunas"/>
+    <file name="step4-u220248-fr_2x2.jpg" crc="4003781663" ref="vilnius:kaunas"/>
+    <file name="step5-u220266-fr2.jpg" crc="33655366" ref="vilnius:kaunas"/>
+    <file name="step5-u220266-fr_2x2.jpg" crc="71660587" ref="vilnius:kaunas"/>
+    <file name="girlnearthewall1-u220537-fr3.jpg" crc="176687697" ref="vilnius:kaunas"/>
+    <file name="girlnearthewall1-u220537-fr_2x3.jpg" crc="3839039928" ref="vilnius:kaunas"/>
+    <file name="logo22.png" crc="3928129736" ref="vilnius:kaunas"/>
+    <file name="logo2_2x.png" crc="265067141" ref="vilnius:kaunas"/>
+    <file name="beforeafter2-u220273-fr.jpg" crc="4198678178" ref="vilnius:kaunas"/>
+    <file name="beforeafter2-u220273-fr_2x.jpg" crc="68781165" ref="vilnius:kaunas"/>
+    <file name="beforeafter1-u220271-fr2.jpg" crc="472046331" ref="vilnius:kaunas"/>
+    <file name="beforeafter1-u220271-fr_2x2.jpg" crc="4107744839" ref="vilnius:kaunas"/>
+    <file name="beforeafter4-u220274-fr.jpg" crc="235312049" ref="vilnius:kaunas"/>
+    <file name="beforeafter4-u220274-fr_2x.jpg" crc="3888763741" ref="vilnius:kaunas"/>
+    <file name="beforeafter3-u220278-fr2.jpg" crc="3769545815" ref="vilnius:kaunas"/>
+    <file name="beforeafter3-u220278-fr_2x2.jpg" crc="4058940713" ref="vilnius:kaunas"/>
+    <file name="beforeafter6-u220277-fr.jpg" crc="66139648" ref="vilnius:kaunas"/>
+    <file name="beforeafter6-u220277-fr_2x.jpg" crc="3786125274" ref="vilnius:kaunas"/>
+    <file name="beforeafter5-u220272-fr2.jpg" crc="183587708" ref="vilnius:kaunas"/>
+    <file name="beforeafter5-u220272-fr_2x2.jpg" crc="4273611326" ref="vilnius:kaunas"/>
+    <file name="fashion1-u220243-fr4.jpg" crc="143465578" ref="vilnius:kaunas"/>
+    <file name="fashion1-u220243-fr_2x4.jpg" crc="4172031571" ref="vilnius:kaunas"/>
+    <file name="step1-u220268-fr3.jpg" crc="444744331" ref="vilnius:kaunas"/>
+    <file name="step1-u220268-fr_2x3.jpg" crc="3937141128" ref="vilnius:kaunas"/>
+    <file name="step2-u220251-fr3.jpg" crc="4165942005" ref="vilnius:kaunas"/>
+    <file name="step2-u220251-fr_2x3.jpg" crc="399415430" ref="vilnius:kaunas"/>
+    <file name="step3-u220252-fr3.jpg" crc="4105439822" ref="vilnius:kaunas"/>
+    <file name="step3-u220252-fr_2x3.jpg" crc="3777897563" ref="vilnius:kaunas"/>
+    <file name="step4-u220248-fr3.jpg" crc="206208915" ref="vilnius:kaunas"/>
+    <file name="step4-u220248-fr_2x3.jpg" crc="159292487" ref="vilnius:kaunas"/>
+    <file name="step5-u220266-fr3.jpg" crc="105843924" ref="vilnius:kaunas"/>
+    <file name="step5-u220266-fr_2x3.jpg" crc="303137135" ref="vilnius:kaunas"/>
+    <file name="girlnearthewall1-u220537-fr4.jpg" crc="114238117" ref="vilnius:kaunas"/>
+    <file name="girlnearthewall1-u220537-fr_2x4.jpg" crc="4255906210" ref="vilnius:kaunas"/>
+    <file name="kaunas-favicon.ico" crc="4191514781" ref="kaunas"/>
+  </folder>
+  <file name="index.html" crc="489291475" seo="true" mt="1505914590872" redirect="true"/>
+  <file name="kontaktai.html" crc="3980307271" seo="true" mt="1505914639336" redirect="true"/>
+  <file name="vilnius.html" crc="413171478" seo="true" mt="1505914590872" redirect="true"/>
+  <file name="kaunas.html" crc="3947337399" seo="true" mt="1505914590872" redirect="true"/>
+</manifest>
